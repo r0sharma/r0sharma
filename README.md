@@ -36,10 +36,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=r0sharma&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
-<!-- TROPHIES -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=r0sharma&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
-</p>
 
 
 
