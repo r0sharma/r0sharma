@@ -45,7 +45,7 @@
 <h3 align="center">🎧 Currently Vibing To</h3>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rvk4nmw6yxm6iuwtfoklro5hsi&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31rvk4nmw6yxm6iuwtfoklro5hsi&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark">
   </a>
 </p>
 
