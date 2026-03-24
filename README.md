@@ -1,41 +1,68 @@
 <!-- @format -->
 
-
-
-<p align = "center">
-    <img src = "https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey+Welcome+To+My+GitHub;++;Kittu+here+;Active+learner;Love+to+sleep+and+learn+new+stuff">
+<!-- TYPING INTRO -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=00FFFF&size=26&center=true&vCenter=true&width=700&height=100&lines=Hey+👋+Welcome+to+My+GitHub;Kittu+Here+🚀;Active+Learner+%7C+Always+Growing;Code+•+Coffee+•+Repeat" />
 </p>
 
-
-<p align = "center">
-    <b>He / Him | Just do coding for fun | I prefer coffee 
-    </br>
-    Currently learning how to sketch </b>
+<!-- ABOUT -->
+<p align="center">
+  <b>
+    👨‍💻 He / Him <br/>
+    💡 Coding for fun & curiosity <br/>
+    ☕ Coffee > Everything <br/>
+    🎨 Currently learning sketching
+  </b>
 </p>
 
-<p align = "center">
-    <img src = "https://komarev.com/ghpvc/?username=e137x&label=Profile%20views&color=0e75b6&style=flat"/>
+<!-- PROFILE VIEWS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=e137x&label=Profile%20Views&color=00FFFF&style=flat" />
 </p>
 
-
-<p align = "center">
-    <img height="135em" src="https://github-readme-stats.vercel.app/api?username=r0sharma&show_icons=true&theme=tokyonight"/>
-    <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0sharma&layout=compact&langs_count=7&theme=dracula"/>
+<!-- MAIN STATS -->
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=r0sharma&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0sharma&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align = "center">
-    <img src = "https://github-profile-trophy.vercel.app/?username=r0sharma"/>
+<!-- STREAK -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=r0sharma&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align = "center">
-    <a href = "r0sharma@proton.me"><b>Email & </b></a>
-    <a href = "https://discord.com/invite/jsk"><b>Discord  </b></a>
-   
+<!-- ACTIVITY GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=r0sharma&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
+<!-- TROPHIES -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=r0sharma&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+</p>
 
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,golang,vscode,androidstudio,c,js,css,html" />
+<!-- SPOTIFY -->
+<h3 align="center">🎧 Currently Vibing To</h3>
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img 
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rvk4nmw6yxm6iuwtfoklro5hsi&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=00FFFF&bar_color_cover=true" 
+    />
   </a>
+</p>
+
+<!-- CONTACT -->
+<p align="center">
+  <a href="mailto:r0sharma@proton.me">
+    <b>📧 Email</b>
+  </a>
+  &nbsp; | &nbsp;
+  <a href="https://discord.com/invite/jsk">
+    <b>💬 Discord</b>
+  </a>
+</p>
+
+<!-- SKILLS -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,golang,vscode,androidstudio,c,js,css,html&theme=dark" />
 </p>
